@@ -1,0 +1,11 @@
+{
+  "name": "Z-Bot",
+  "version": "1.0.0",
+  "description": "An economy bot built and designed for Dragon Ball Souls Unbound",
+  "main": "Z-bot.js",
+  "author": "GamerARK18",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.0.0"
+  }
+}
